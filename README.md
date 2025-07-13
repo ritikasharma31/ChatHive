@@ -4,7 +4,7 @@ ChatHive is a full-stack real-time chat application that allows users to communi
 
 
 Features
-🔹 User Authentication (Signup/Login with JWT)\n
+🔹 User Authentication (Signup/Login with JWT)
 🔹 Real-Time Messaging (Socket.io)
 🔹 Update Profile & Avatar
 🔹 Responsive Design
